@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Cglib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../设计模式/尚硅谷图解Java设计模式/Cglib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../设计模式/尚硅谷图解Java设计模式/Cglib" recursive="false" />
+  </library>
+</component>
